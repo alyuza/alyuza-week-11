@@ -2,6 +2,19 @@ openapi: 3.0.0
 info:
   version: 1.0.0
   title: Human Resource Development Application
+  description: |
+    # Flowchart
+    ---
+    ![Swagger logo](https://i.ibb.co/CnnFqY5/main-Flowchart.png)
+
+    ```
+    Available Account
+    "username" : "hrd.admin",
+    "password" : "admin1234",
+    "role" : "admin"
+    ```
+    ---
+
 servers:
   - url: https://erin-beautiful-peacock.cyclic.app
     description: 'Production server'
