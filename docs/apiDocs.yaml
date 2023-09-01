@@ -3,6 +3,8 @@ info:
   version: 1.0.0
   title: Human Resource Development Application
 servers:
+  - url: https://erin-beautiful-peacock.cyclic.app
+    description: 'Production server'
   - url: http://localhost:3000
     description: 'Development server'
 
